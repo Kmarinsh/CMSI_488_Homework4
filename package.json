@@ -1,0 +1,28 @@
+{
+  "name": "cmsi_488_homework4",
+  "version": "1.0.0",
+  "description": "Regex and Ohm solutions to the hw4",
+  "main": "src/test.js",
+  "type": "module",
+  "scripts": {
+    "test": "c8 node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kmarinsh/CMSI_488_Homework4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kmarinsh/CMSI_488_Homework4/issues"
+  },
+  "homepage": "https://github.com/Kmarinsh/CMSI_488_Homework4#readme",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "ohm-js": "^15.5.0"
+  },
+  "devDependencies": {
+    "c8": "^7.6.0",
+    "mocha": "^8.3.2"
+  }
+}
