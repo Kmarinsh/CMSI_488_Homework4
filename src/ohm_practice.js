@@ -1,7 +1,6 @@
 import ohm from "ohm-js"
 
 const grammars = {
-  //neds fix
   canadianPostalCode: 
     `
       canadianPostalCode = firstGroup space secondGroup
